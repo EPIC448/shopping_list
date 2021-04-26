@@ -1,0 +1,16 @@
+ Resources for building first mobile app
+
+ https://www.youtube.com/watch?v=Hf4MJH0jDb4&t=616s
+ Stopped video at mins 20
+
+  https://reactnative.dev/docs/environment-setup
+
+  https://jeffgukang.github.io/react-native-tutorial/docs/basic-tutorial/basic-features(todolist)/12-delete-items/delete-items.html
+
+  Run code
+  Mostly have to put 
+  "npx" in from of them 
+   
+   Run the app use the command
+
+   "npx react-native run-ios"
