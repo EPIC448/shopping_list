@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/l0G16KpPfcmdN1G1O/giphy-downsized.gif)
 
->A reactNative application for food shopping with an delete and add feature to the list.
+>A reactNative application for food shopping with a delete feature and adding item feature to the list.
 ---
  Using this application assumes that you have your coding environment set up for it to run. If not sure, check out the Setting up enviorment link below under references .
 
@@ -11,6 +11,8 @@
 
 
 
+- [How to use](#How-to-use)
+- [Video Demo](#Video-Demo)
 - [How to use](#How-to-use)
 - [References](#References)
 - [License](#License)
@@ -41,6 +43,9 @@ cd in to the Shopping_list file in your code editior and run the command below f
  For Andriod:
   run command "npx react-native run-andriod"
  ```
+
+ ### Video Demo
+- [Link](https://youtu.be/klTWKbjnkGU)
 
  ### References
  
