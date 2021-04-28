@@ -14,7 +14,7 @@ const App = () => {
     {id: uuid(), text: 'Juice'},
   ]);
 
-  const deletItem = (id) => {
+  const deleteItem = (id) => {
     
     setItems(prevItems => {
       return prevItems.filter(item => item.id !== id);
@@ -41,7 +41,7 @@ const App = () => {
       <FlatList
         data={items}
         renderItem={({ item }) => (
-           <ListItem item={item} deletItem={deletItem} />
+           <ListItem item={item} deleteItem={deleteItem} />
 
         )}
         
