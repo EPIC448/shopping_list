@@ -1,5 +1,6 @@
 # Shopping List
-![Project Image](https://cdn.dribbble.com/users/30252/screenshots/1305269/dribbble-icanshop.gif)
+
+![](https://media.giphy.com/media/l0G16KpPfcmdN1G1O/giphy-downsized.gif)
 
 >A reactNative application for food shopping with an delete and add feature to the list.
 ---
