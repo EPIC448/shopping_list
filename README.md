@@ -13,7 +13,7 @@
 
 - [How to use](#How-to-use)
 - [Video Demo](#Video-Demo)
-- [How to use](#How-to-use)
+
 - [References](#References)
 - [License](#License)
 - [Author Info](#Author-Info)
