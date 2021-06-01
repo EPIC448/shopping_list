@@ -37,6 +37,10 @@ cd in to the Shopping_list file in your code editior and run the command below f
 ```
  For IOS:
   run command "npx react-native run-ios"
+
+  or
+
+  run command "npm start"
  ```
 
  ```
